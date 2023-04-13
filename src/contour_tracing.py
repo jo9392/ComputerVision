@@ -74,5 +74,5 @@ def boundary_tracing(y, x, label, tag):
 
 
 if __name__ == "__main__":
-    m, n, b_image = read_image("\\input1.txt")
+    m, n, b_image = read_image("\\input_example\\input1.txt")
     for i in input1: print(i)
