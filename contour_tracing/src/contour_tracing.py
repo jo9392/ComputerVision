@@ -1,4 +1,4 @@
-PATH = "C:\\python\\ComputerVision"
+PATH = "C:\\python\\ComputerVision\\contour_tracing"
 global b_image, label_image, m, n, neighbor8, num_region, label_num
 
 
